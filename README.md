@@ -1,10 +1,10 @@
-# IEMBA 10 / 11: Coding und Künstliche Intelligenz
+# IEMBA 10 / 11: Coding and Artificial Intelligence
 
 ![Course Banner](assets/banner.png)
 
 Dear IEMBA 10 / 11 students,
 
-welcome to our elective course **Coding und Künstliche Intelligenz**, taught by **Prof. Dr. Damian Borth** and **Prof. Dr. Barbara Weber**. In this course, lectures and hands-on lab courses alternate to provide a better learning experience. Lab course materials for Python programming, Machine Learning und Deep Learning are available in and accessible through this repository.
+welcome to our elective course **Coding and Artificial Intelligence**, taught by **Prof. Dr. Damian Borth** and **Prof. Dr. Barbara Weber**. In this course, lectures and hands-on lab courses alternate to provide a better learning experience. Lab course materials for Python programming, Machine Learning und Deep Learning are available in and accessible through this repository.
 
 Please use a laptop computer for the lab courses (not a tablet) to be able to fully participate in the exercises.
 
