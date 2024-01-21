@@ -8,7 +8,7 @@ welcome to our elective course **Coding and Artificial Intelligence**, taught by
 
 Please use a laptop computer for the lab courses (not a tablet) to be able to fully participate in the exercises.
 
-Happy Coding!
+Happy Coding and let's have fun!
 
 Your EMBA teaching team
 
