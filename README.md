@@ -27,6 +27,6 @@ This table lists all coding lab notebooks and exercise notebooks:
 | Wed, Jan 24, morning session       |  Deep Learning I<br/>(Artificial Neural Nets)                        |       |       |       |
 | Wed, Jan 24, afternoon session     |  Deep Learning II<br/>(Convolutional Neural Nets)                    |       |       |       |
 | Thu, Jan 25, afternoon session       |  Using ML APIs with Python <br/>(Google Cloud Vision, OpenAI)                |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IEMBA2024-Lab/blob/main/lab_06/lab_06a.ipynb)     |       |       |
-| Thu, Jan 26, morning session     |  Using Pre-built AI with Python <br/>(Transformers Library, Diffusors Library)       |![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IEMBA2024-Lab/blob/main/lab_07/lab_07.ipynb)          |       |       |
+| Thu, Jan 26, morning session     |  Using Pre-built AI with Python <br/>(Transformers Library, Diffusors Library)       |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IEMBA2024-Lab/blob/main/lab_07/lab_07.ipynb)          |       |       |
 | < TBD                              |  Exam Exercise                                                       | -     |       |  -    |
 
